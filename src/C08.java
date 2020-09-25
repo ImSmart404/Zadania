@@ -1,4 +1,4 @@
-public class С08 {
+public class C08 {
     /**
      * Реализуй метод getMetreFromCentimetre(int centimetre).
      * Метод на вход принимает количество сантиметров.
